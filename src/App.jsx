@@ -7,10 +7,10 @@ function App() {
 
   return (
     <>
-    <Form/>
-    <MainPart/>
-    {/*<Title/>*/}
-      </>
+      <Form/>
+      {/*<MainPart/>*/}
+      {/*<Title/>*/}
+    </>
   )
 }
 

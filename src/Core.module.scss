@@ -1,0 +1,5 @@
+.field {
+  @apply py-1 px-2 rounded-md border-2 border-solid border-transparent
+         duration-300 transition-colors ease-linear outline-none
+         hover:border-yellow-900 mb-5 block placeholder:text-white;
+}
