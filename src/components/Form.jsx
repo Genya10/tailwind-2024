@@ -3,7 +3,7 @@ import cl from "../Core.module.scss";
 export function Form() {
   return (
     <form
-      className="bg-primary-color/20 p-3 rounded-lg border
+      className="bg-primary-color/20 p-4 rounded-lg border
           border-solid border-white/50"
     >
       <h1 className="mb-5 font-semibold">Login</h1>

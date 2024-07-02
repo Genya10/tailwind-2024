@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Form/>
+      {/*<Form/>*/}
       {/*<MainPart/>*/}
       {/*<Title/>*/}
     </>
